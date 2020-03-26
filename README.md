@@ -1,3 +1,4 @@
+![screenshot](./screenshot.png)
 
 * open the file "Binance_Currencies.ods" in LibreOffice (https://libreoffice.org)
 * enable the automatic update of external links
